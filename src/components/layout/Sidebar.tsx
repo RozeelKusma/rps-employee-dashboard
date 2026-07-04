@@ -6,8 +6,8 @@ import {
   Megaphone,
   CalendarDays,
   UserCircle,
-  Waves,
   X,
+  LucideLayoutDashboard,
 } from "lucide-react";
 import { NavLink } from "react-router";
 
@@ -46,7 +46,10 @@ export function Sidebar({
         <div className="flex items-center justify-between px-5 h-16 border-b border-slate-200 dark:border-slate-800">
           <div className="flex items-center gap-2.5">
             <div className="w-8 h-8 rounded-lg bg-linear-to-br from-indigo-500 to-violet-600 flex items-center justify-center">
-              <Waves className="w-4.5 h-4.5 text-white" strokeWidth={2.5} />
+              <LucideLayoutDashboard
+                className="w-4.5 h-4.5 text-white"
+                strokeWidth={2.5}
+              />
             </div>
             <span className="font-bold text-slate-900 dark:text-white tracking-tight">
               RPS Employee
