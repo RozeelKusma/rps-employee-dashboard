@@ -1,0 +1,52 @@
+[
+  {
+    "id": "an-001",
+    "title": "Q3 All-Hands Meeting Scheduled",
+    "body": "Join us this Friday at 4:00 PM NPT for the Q3 all-hands. We'll cover roadmap updates, team shoutouts, and an open Q&A with leadership. Calendar invites have been sent.",
+    "category": "Event",
+    "author": "David Berg",
+    "date": "2026-06-28",
+    "pinned": true
+  },
+  {
+    "id": "an-002",
+    "title": "Updated Remote Work Policy",
+    "body": "Starting next month, employees can work remotely up to 4 days a week. Please review the updated policy document on the intranet and acknowledge it by end of week.",
+    "category": "Policy",
+    "author": "Emily Chen",
+    "date": "2026-06-25",
+    "pinned": true
+  },
+  {
+    "id": "an-003",
+    "title": "Office Closed for Dashain Holiday",
+    "body": "The Kathmandu office will be closed from Oct 12-16 in observance of Dashain. Please plan your handovers accordingly.",
+    "category": "Holiday",
+    "author": "Emily Chen",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "an-004",
+    "title": "New Health Insurance Provider",
+    "body": "We've partnered with a new health insurance provider offering expanded coverage. HR will host an info session next Tuesday.",
+    "category": "General",
+    "author": "Emily Chen",
+    "date": "2026-06-18"
+  },
+  {
+    "id": "an-005",
+    "title": "Scheduled Maintenance: Internal Tools",
+    "body": "Internal tools (VPN, Jira, Confluence) will be unavailable Saturday 2 AM - 5 AM NPT for scheduled maintenance.",
+    "category": "Urgent",
+    "author": "Tomás Alvarez",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "an-006",
+    "title": "Welcome New Hires!",
+    "body": "Please join us in welcoming 4 new team members who joined this month across Engineering and Design. Say hi in #welcome!",
+    "category": "General",
+    "author": "Emily Chen",
+    "date": "2026-06-10"
+  }
+]
